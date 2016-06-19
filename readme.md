@@ -16,5 +16,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 ##php artisan migrate
 ##php artisan serve 
 
+go to localhost:8000/nerds
+
 
 
