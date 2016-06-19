@@ -11,10 +11,10 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
 ## How run
-set db on .env
-run db
-php artisan migrate
-php artisan serve 
+##set db on .env
+##run db
+##php artisan migrate
+##php artisan serve 
 
 
 
